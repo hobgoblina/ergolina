@@ -3,6 +3,8 @@ QMK keymap for ergodox-ez, maybe other ergo/efficiency related configs and whatn
 
 ###QMK Ergodox EZ keymap (MacOS)
 ####Default layer's fancy features
+<img width="1144" alt="Screen Shot 2021-03-12 at 23 25 02" src="https://user-images.githubusercontent.com/20880695/111020715-e0370500-8395-11eb-8e35-41aa03581d35.png">
+
 - Save - just cmd+s
 - Macro TD - Macro Tap Dance
   - Double tap to record
