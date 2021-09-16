@@ -20,8 +20,8 @@ QMK keymap for ergodox-ez, maybe other ergo/efficiency related configs and whatn
   - Single tap left shift for open parentheses, hold shift
   - Single tap right shift for close parentheses, hold shift
 - Brace cadet layers
-  - Single tap left inner modifiers for open curly brace / open bracket, hold for layers 1 / 2
-  - Single tap right inner modifiers for close curly brace / open bracket, hold for layers 3 / 4
+  - Single tap left inner modifiers for open curly brace / bracket, hold for layers 1 / 2
+  - Single tap right inner modifiers for close curly brace / bracket, hold for layers 3 / 4
 - New T/W - single tap opens new tab (cmd+t), double tap opens new window (cmd+n)
 - Shift+Backspace -> Forward Delete
 - Spotlight - Toggle spotlight search on tap, shift on hold
